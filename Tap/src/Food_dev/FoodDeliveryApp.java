@@ -14,7 +14,7 @@ public class FoodDeliveryApp {
 
         Payment payment = new Payment("UPI");
 
-        Delivery delivery = new Delivery("Ravi");
+        Delivery delivery = new Delivery("Bhuvan");
 
         customer.displayCustomer();
         restaurant.showRestaurant();
